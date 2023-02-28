@@ -236,3 +236,4 @@ Christos Koninis, c.koninis@afse.eu
 ## License
 
 JsonLogic for Swift is available under the MIT license. See the LICENSE file for more info.
+
